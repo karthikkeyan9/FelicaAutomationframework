@@ -18,5 +18,9 @@ public class DataFromVarugTest {
 	{
 		System.out.println("run");
 	}
-
+	public void getdata()
+	{
+		System.out.println("read");
+	}
 }
+
