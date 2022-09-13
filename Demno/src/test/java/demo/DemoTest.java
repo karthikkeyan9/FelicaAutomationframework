@@ -22,4 +22,9 @@ public void DeleteorgTest()
 {
 	System.out.println("orgination deleted");
 }
+@Test
+public void run()
+{
+	System.out.println("run");
+}
 }
