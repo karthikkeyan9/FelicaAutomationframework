@@ -17,6 +17,7 @@ public class DataFromVarugTest {
 	public void read()
 	{
 		System.out.println("run");
+		System.out.println("wait");
 	}
 	public void getdata()
 	{
