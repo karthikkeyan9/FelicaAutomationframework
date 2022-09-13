@@ -14,9 +14,13 @@ public class DataFromVarugTest {
 		System.out.println(URL);
 	}
 	@Test
+	public void read()
+	{
+		System.out.println("run");
+	}
 	public void getdata()
 	{
 		System.out.println("read");
 	}
-
 }
+

@@ -2,16 +2,35 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2022-09-13T11:28:01 IST" name="Default suite" finished-at="2022-09-13T11:28:01 IST" duration-ms="75">
+=======
+  <suite started-at="2022-09-13T11:27:12 IST" name="Default suite" finished-at="2022-09-13T11:27:12 IST" duration-ms="80">
+>>>>>>> branch 'master' of https://github.com/karthikkeyan9/FelicaAutomationframework.git
     <groups>
     </groups>
+<<<<<<< HEAD
     <test started-at="2022-09-13T11:28:01 IST" name="Default test" finished-at="2022-09-13T11:28:01 IST" duration-ms="75">
       <class name="demo.newcl">
         <test-method signature="getdata()[pri:0, instance:demo.newcl@15aab8c6]" started-at="2022-09-13T11:28:01 IST" name="getdata" finished-at="2022-09-13T11:28:01 IST" duration-ms="10" status="PASS">
+=======
+    <test started-at="2022-09-13T11:27:12 IST" name="Default test" finished-at="2022-09-13T11:27:12 IST" duration-ms="80">
+      <class name="demo.DataFromVarugTest">
+        <test-method signature="read()[pri:0, instance:demo.DataFromVarugTest@446293d]" started-at="2022-09-13T11:27:12 IST" name="read" finished-at="2022-09-13T11:27:12 IST" duration-ms="9" status="PASS">
+>>>>>>> branch 'master' of https://github.com/karthikkeyan9/FelicaAutomationframework.git
           <reporter-output>
           </reporter-output>
+<<<<<<< HEAD
         </test-method> <!-- getdata -->
       </class> <!-- demo.newcl -->
+=======
+        </test-method> <!-- read -->
+        <test-method signature="readata()[pri:0, instance:demo.DataFromVarugTest@446293d]" started-at="2022-09-13T11:27:12 IST" name="readata" finished-at="2022-09-13T11:27:12 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readata -->
+      </class> <!-- demo.DataFromVarugTest -->
+>>>>>>> branch 'master' of https://github.com/karthikkeyan9/FelicaAutomationframework.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
